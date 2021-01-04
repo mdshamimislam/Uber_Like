@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092632288928",
+    "firebase_url": "https://busuber-c42dc.firebaseio.com",
+    "project_id": "busuber-c42dc",
+    "storage_bucket": "busuber-c42dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092632288928:android:95c54888a941362c0573c5",
+        "android_client_info": {
+          "package_name": "com.shamim.busuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092632288928-ic0ajjl3n4umbutnal3enfs7gp98menb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJmm41vnX1rgWIaYL-3KhQbM9s0WHcpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092632288928-ic0ajjl3n4umbutnal3enfs7gp98menb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
